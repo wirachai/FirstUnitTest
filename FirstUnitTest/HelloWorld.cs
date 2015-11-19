@@ -5,7 +5,11 @@ using System.Text;
 
 namespace FirstUnitTest
 {
-    public class Class1
+    public class HelloWorld
     {
+        public string Print()
+        {
+            return "Hello World";
+        }
     }
 }
